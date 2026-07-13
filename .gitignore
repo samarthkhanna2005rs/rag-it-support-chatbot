@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Local Vector Database
+vectorstore/
+*.sqlite3
+
+# OS specific files
+.DS_Store
+Thumbs.db
